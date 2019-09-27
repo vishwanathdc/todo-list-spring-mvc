@@ -1,0 +1,5 @@
+com\vishwanath\config\WebAppInitializer.class
+com\vishwanath\controller\DemoController.class
+com\vishwanath\service\DemoServiceImpl.class
+com\vishwanath\config\WebConfig.class
+com\vishwanath\service\DemoService.class
